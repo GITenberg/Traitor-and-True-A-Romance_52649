@@ -1,0 +1,25 @@
+_repo: Traitor-and-True-A-Romance_52649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloundelle-Burton, John
+    alias: Bloundelle-Burton, J. (John)
+    birthdate: 1850
+    deathdate: 1917
+    gutenberg_agent_id: '36515'
+    url: http://www.gutenberg.org/2009/agents/36515
+description: ''
+gutenberg_issued: '2016-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- GITenberg
+title: 'Traitor and True: A Romance'
+url: http://www.gutenberg.org/ebooks/52649
