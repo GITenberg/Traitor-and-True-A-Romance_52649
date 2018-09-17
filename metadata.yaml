@@ -1,5 +1,8 @@
 _repo: Traitor-and-True-A-Romance_52649
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bloundelle-Burton, John
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '36515'
     url: http://www.gutenberg.org/2009/agents/36515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52649#Traitor-and-True-A-Romance
 gutenberg_issued: '2016-07-25'
 gutenberg_type: Text
 identifiers:
